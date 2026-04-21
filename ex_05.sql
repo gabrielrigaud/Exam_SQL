@@ -1,0 +1,1 @@
+/* Le mot-clé qui permet de filtrer les résultats est WHERE */

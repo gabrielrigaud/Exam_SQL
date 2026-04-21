@@ -1,0 +1,1 @@
+SELECT age from users WHERE age >= 25;

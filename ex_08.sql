@@ -1,0 +1,1 @@
+/* SQL COUNT() permet de compter le nombre de lignes dans une table ou le nombre de valeurs d'une colonne. */

@@ -1,0 +1,1 @@
+SELECT amount from orders;
